@@ -1,0 +1,22 @@
+[
+  {
+    "name": "BankFintech",
+    "type": "json",
+    "url": "<your_feed_or_json_here>"
+  },
+  {
+    "name": "gh_e6d27dfda288",
+    "type": "json",
+    "url": "<your_feed_or_json_here>"
+  },
+  {
+    "name": "zgncjrwx",
+    "type": "json",
+    "url": "<your_feed_or_json_here>"
+  },
+  {
+    "name": "datayuancn",
+    "type": "json",
+    "url": "<your_feed_or_json_here>"
+  }
+]
